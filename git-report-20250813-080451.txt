@@ -1,0 +1,7 @@
+Category: beepmedia
+Repository: beepmedia/mcp/mcp-dev/mcp-elevenlabs
+Full path: /Users/andreihasna/Dev/beepmedia/mcp/mcp-dev/mcp-elevenlabs
+
+  • Has uncommitted changes
+Push successful: false
+---
